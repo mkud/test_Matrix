@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mkud/test_Matrix.svg?branch=master)](https://travis-ci.com/mkud/test_Matrix)
+
 # test Matrix
 
 The task is to write two classes in C++: a matrix class and a vector class. 
